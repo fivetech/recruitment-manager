@@ -1,0 +1,122 @@
+[
+	{
+		"title": "Senior Java Developer",
+		"description": ["Develops complex program documentation using structure diagrams, behavior diagrams and interaction diagrams, system and program flowcharts, test plans and conversion plans.","Reviews the development and coding of Java programs and systems.  Ensures appropriate documentation is utilized in information systems projects.","Performs post implementation reviews to determine if the system and cost objectives of the project were achieved.","Analyzes and recommends new procedures and techniques to improve the supported systems.","Communicates technical information successfully with technical and non technical audiences such as third party vendors, external customer technical departments, various levels of management and other relevant parties.","Leads medium and large technical development teams to succJava Developer - Consultant / Senior Consultantessful implementation of quality code products."],
+		"skills": [
+			"JAVA",
+			"JSF",
+			"JSP",
+			"JQUERY",
+			"SPRING",
+			"NOSQL",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "OBSS",
+		"applications": []
+	},
+	{
+		"title": "Senior .Net Developer",
+		"description": ["Senior .Net Developer will be primarily responsible for the analysis, design, development, documentation, production and maintanence of the software projects."],
+		"skills": [
+			"C#",
+			".NET",
+			"MVC",
+			"ASP.NET",
+			"SQL SERVER",
+			"ENTITY FRAMEWORK",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "OBSS",
+		"applications": []
+	},
+	{
+		"title": "Senior Java Developer",
+		"description": ["Develops complex program documentation using structure diagrams, behavior diagrams and interaction diagrams, system and program flowcharts, test plans and conversion plans.","Reviews the development and coding of Java programs and systems.  Ensures appropriate documentation is utilized in information systems projects.","Performs post implementation reviews to determine if the system and cost objectives of the project were achieved.","Analyzes and recommends new procedures and techniques to improve the supported systems.","Communicates technical information successfully with technical and non technical audiences such as third party vendors, external customer technical departments, various levels of management and other relevant parties.","Leads medium and large technical development teams to succJava Developer - Consultant / Senior Consultantessful implementation of quality code products."],
+		"skills": [
+			"JAVA",
+			"JSF",
+			"JSP",
+			"JQUERY",
+			"SPRING",
+			"NOSQL",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "Kartaca",
+		"applications": []
+	},
+	{
+		"title": "Senior .Net Developer",
+		"description": ["Senior .Net Developer will be primarily responsible for the analysis, design, development, documentation, production and maintanence of the software projects."],
+		"skills": [
+			"C#",
+			".NET",
+			"MVC",
+			"ASP.NET",
+			"SQL SERVER",
+			"ENTITY FRAMEWORK",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "Kartaca",
+		"applications": []
+	},
+	{
+		"title": "Senior Java Developer",
+		"description": ["Develops complex program documentation using structure diagrams, behavior diagrams and interaction diagrams, system and program flowcharts, test plans and conversion plans.","Reviews the development and coding of Java programs and systems.  Ensures appropriate documentation is utilized in information systems projects.","Performs post implementation reviews to determine if the system and cost objectives of the project were achieved.","Analyzes and recommends new procedures and techniques to improve the supported systems.","Communicates technical information successfully with technical and non technical audiences such as third party vendors, external customer technical departments, various levels of management and other relevant parties.","Leads medium and large technical development teams to succJava Developer - Consultant / Senior Consultantessful implementation of quality code products."],
+		"skills": [
+			"JAVA",
+			"JSF",
+			"JSP",
+			"JQUERY",
+			"SPRING",
+			"NOSQL",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "LA Software Group",
+		"applications": []
+	},
+	{
+		"title": "Senior .Net Developer",
+		"description": ["Senior .Net Developer will be primarily responsible for the analysis, design, development, documentation, production and maintanence of the software projects."],
+		"skills": [
+			"C#",
+			".NET",
+			"MVC",
+			"ASP.NET",
+			"SQL SERVER",
+			"ENTITY FRAMEWORK",
+			"JAVASCRIPT",
+			"CSS"
+		],
+		"isActive": true,
+		"dateCreated": "2016-07-22T14:09:00.993Z",
+		"dateActivated": "2016-07-22T14:09:00.993Z",
+		"dateExpired": "2016-07-22T14:09:00.993Z",
+		"companyName": "LA Software Group",
+		"applications": []
+	}
+]

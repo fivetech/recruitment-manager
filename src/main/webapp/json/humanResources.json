@@ -1,0 +1,38 @@
+ [
+	{
+		"firstName": "Tolga",
+		"lastName": "Durak",
+		"companyName": "OBSS",
+		"emailAddress": "tolga.durak@obss.com.tr"
+	},
+	{
+		"firstName": "Selçuk",
+		"lastName": "Durak",
+		"companyName": "OBSS",
+		"emailAddress": "selcuk.durak@obss.com.tr"
+	},
+	{
+		"firstName": "Serkan",
+		"lastName": "Durak",
+		"companyName": "Kartaca",
+		"emailAddress": "serkan.durak@kartaca.com"
+	},
+	{
+		"firstName": "Mustafa",
+		"lastName": "Durak",
+		"companyName": "Kartaca",
+		"emailAddress": "mustafa.durak@kartaca.com"
+	},
+	{
+		"firstName": "Fatih",
+		"lastName": "Ünlü",
+		"companyName": "LA Software Group",
+		"emailAddress": "fatih.unlu@la.com.tr"
+	},
+	{
+		"firstName": "Zeynep",
+		"lastName": "Durak",
+		"companyName": "LA Software Group",
+		"emailAddress": "zeynep.durak@la.com.tr"
+	}
+]

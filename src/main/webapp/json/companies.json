@@ -1,0 +1,17 @@
+ [
+	{
+		"companyName": "OBSS",
+		"emailAddress": "info@obss.co",
+		"pictureUrl": "http://obss.com.tr/wp-content/uploads/2014/11/images.png"
+	},
+	{
+		"companyName": "Kartaca",
+		"emailAddress": "info@kartaca.com",
+		"pictureUrl": "http://www.kartaca.com/images/kartaca/kartaca_logo.png"
+	},
+	{
+		"companyName": "LA Software Group",
+		"emailAddress": "info@la.com.tr",
+		"pictureUrl": "http://www.la.com.tr/mt-content/uploads/2015/05/logo.png"
+	}
+]
